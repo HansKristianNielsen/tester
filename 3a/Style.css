@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    font-family: tahoma, Helvetica, sans-serif;
+}
+
+header {
+    background-color: brown;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+	
+section {
+  display: flex;
+}
+	
+nav {
+    width: 10%;
+    background: #ccc;
+    padding: 20px;
+}
+
+article {
+    padding: 20px;
+    width: 40%;
+    background-color: #f1f1f1;
+}
+
+footer {
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+a{
+	color: brown;
+	text-decoration: none;
+	font-weight: bold;
+    margin-bottom: 30px;
+    display: block;
+}
