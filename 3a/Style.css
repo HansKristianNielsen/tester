@@ -10,12 +10,10 @@ header {
     padding: 30px;
     text-align: center;
     color: white;
-}
-	
+}	
 section {
   display: flex;
-}
-	
+}	
 nav {
     width: 10%;
     background: #ccc;
