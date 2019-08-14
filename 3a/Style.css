@@ -4,14 +4,12 @@
 body {
     font-family: tahoma, Helvetica, sans-serif;
 }
-
 header {
     background-color: brown;
     padding: 30px;
     text-align: center;
     color: white;
-}
-	
+}	
 section {
   display: flex;
 }
